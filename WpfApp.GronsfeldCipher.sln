@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp.GronsfeldCipher", "WpfApp.GronsfeldCipher\WpfApp.GronsfeldCipher.csproj", "{C8943898-1136-42BD-A8B3-D2652274D92D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8943898-1136-42BD-A8B3-D2652274D92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8943898-1136-42BD-A8B3-D2652274D92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8943898-1136-42BD-A8B3-D2652274D92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8943898-1136-42BD-A8B3-D2652274D92D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE3A74A9-1355-470F-A78D-70F6E9A8CBC9}
+	EndGlobalSection
+EndGlobal
